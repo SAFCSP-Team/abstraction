@@ -19,13 +19,17 @@ In this project we will learn how to “shows” only essential information and 
 
 **Problem**
 
+Create abstract class Vehicle, which represents a general concept of a vehicle.
 
 **Implementation**
 
 
 
 ```Java
+public class Main {
+    public static void main(String[] args) {
 
+}
 
 
 ```
