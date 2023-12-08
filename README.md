@@ -16,14 +16,15 @@ In this project, we will learn how to `show` only essential information and `hid
 
 **Problem**
 
-Create an abstract class named `Vehicle`, then create the following classes `Car` & `Track` which they shared the following attributes `name `& `brand` and methods `start()` &  `stop()`.
+Create  a `Vehicle` class using abstract concepts.
 
 **Implementation**
-* Create `Vehicle` abstract class.
-* Create the following classes `Car`, `Track` that inherit from `Vhecile`
-* `start()` is abstract method.
-* Change the implement of the `start()` method for each class, it should print the name of the veicle.
-* Create an object from each class and call them in the main method.
+
+* Create a `Vehicle` abstract class.
+* attributes `name `& `brand` and start() method.
+* `start()` is an abstract method.
+* the `start()` method for the main, should print the name of the vehicle.
+* Create an object and call it in the main method.
 
 ```Java
 
