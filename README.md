@@ -21,9 +21,9 @@ Create  a `Vehicle` class using abstract concepts.
 **Implementation**
 
 * Create a `Vehicle` abstract class.
-* attributes `name `& `brand` and start() method.
-* `start()` is an abstract method.
-* the `start()` method for the main, should print the name of the vehicle.
+* Attributes `name `& `brand` and start() method.
+* `Start()` is an abstract method.
+* The `start()` method for the main, should print the name of the vehicle.
 * Create an object and call it in the main method.
 
 ```Java
