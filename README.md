@@ -2,7 +2,7 @@
 
 **Objective**
 
-In this project, we will learn how to `show` only essential information and `hide` unnecessary information.
+In this project, we will learn how to `show` only essential information and `hide` unnecessary information, with the help of `abstraction class`.
 
 
 **Concepts**
