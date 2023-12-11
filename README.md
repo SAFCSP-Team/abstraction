@@ -29,7 +29,7 @@ Create  a `Vehicle` class using abstract concepts.
 
 public class Main {
     public static void main(String[] args) {
-
+          /* your code here */
    }
 }
 
