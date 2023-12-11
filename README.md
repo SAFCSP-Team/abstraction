@@ -10,9 +10,8 @@ In this project, we will learn how to **show** only essential information and **
 | Concept   |      Resources      |
 |----------|:-------------:|
 |What is an abstraction | [Abstraction document](https://stackify.com/oop-concept-abstraction/)|
-|How to abstract class| [Abstraction (Tutorial)](https://www.youtube.com/watch?v=52frlN8webg)|
+|How to abstract class and method| [Abstrac class](https://www.youtube.com/watch?v=52frlN8webg),[Abstract method](https://www.youtube.com/watch?v=HvPlEJ3LHgE)|
 |What is an abstraction in programming|[Abstraction overview](https://www.youtube.com/watch?v=L1-zCdrx8Lk)|
-
 
 **Problem**
 
