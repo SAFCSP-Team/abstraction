@@ -11,8 +11,13 @@ abstract class Vehicle{
   
   class Car extends Vehicle{
    
+
+    public Car(String name, String brand){
+      super(name, brand);
+    }
     public void start(){
-        System.out.println(name, brand);
+        System.out.println(name);
+        System.out.println(brand);
     
   }}
   public class Main {
