@@ -1,5 +1,31 @@
 public class Main {
     public static void main(String[] args) {
-          /* your code here */
+        Car car1 = new Car("NewCar", "GMC");
+        car1.start();
+          
    }
+}
+
+abstract class Vehicle{
+    protected String name;
+    protected String brand;
+
+    public Vehicle(String name, String brand) {
+        this.name = name;
+        this.brand = brand;
+    }
+
+
+    public abstract void start();
+}
+
+class Car extends Vehicle {
+    public Car(String name, String brand) {
+        super(name, brand);
+    }
+
+
+    public void start() {
+        System.out.println("Starting the car: " + name + " " + brand);
+    }
 }
